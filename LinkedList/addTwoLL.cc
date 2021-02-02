@@ -91,6 +91,7 @@
              carry = (no1+carry)/10;
              insertAtTail(curh, curt, ans);
              cur1 = cur1->next;
+          //abcd
          }
          while(cur2){
              int no2 = cur2->data;
